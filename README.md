@@ -14,11 +14,28 @@
             font-size: 24px;
             font-family: Arial, sans-serif;
         }
+
+        /* Контент стилі */
+        main {
+            text-align: center;
+            margin: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            font-size: 18px;
+        }
     </style>
 </head>
 <body>
     <header>
         Видео тест
     </header>
+    <main>
+        <p>Мына файлды жүктеу үшін сілтемені басыңыз:</p>
+        <a href="Lively Wallpaper Installer.exe" download>Файлды жүктеу</a>
+    </main>
 </body>
 </html>
